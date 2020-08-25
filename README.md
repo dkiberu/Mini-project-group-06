@@ -14,7 +14,7 @@ Raw sequence data called sample X generated from minION and two reference files 
 
 ## Pipeline
 
-Snakemake workflow language was used as a 
+Snakemake was used as a workflow language
 
 
 
